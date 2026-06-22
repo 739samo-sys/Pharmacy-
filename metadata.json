@@ -1,0 +1,6 @@
+{
+  "name": "Pharmacy Feasibility Study",
+  "description": "An interactive tool to generate, calculate, and export comprehensive feasibility studies for establishing a new pharmacy, integrated with Google Docs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
